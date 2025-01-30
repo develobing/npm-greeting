@@ -1,5 +1,11 @@
 # @philoin88/npm-greeting
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- 82ebdc0: Added Grumpy to monarch cats
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
