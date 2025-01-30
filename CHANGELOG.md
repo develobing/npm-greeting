@@ -1,5 +1,6 @@
 # @philoin88/npm-greeting
 
+
 ## 2.0.0-beta.1
 
 ### Major Changes
@@ -11,6 +12,13 @@
 ### Major Changes
 
 - 66b8bcb: Created a monarch cats morning greet
+
+## 1.2.2
+
+### Patch Changes
+
+- 685dec2: Night greet changed
+
 
 ## 1.2.1
 
