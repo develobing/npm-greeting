@@ -1,5 +1,11 @@
 # @philoin88/npm-greeting
 
+## 1.2.1
+
+### Patch Changes
+
+- 8d67327: Night greet changed text to something warmer
+
 ## 1.2.0
 
 ### Minor Changes
