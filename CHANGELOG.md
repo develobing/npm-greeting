@@ -1,5 +1,11 @@
 # @philoin88/npm-greeting
 
+## 2.0.0
+
+### Major Changes
+
+- 66b8bcb: Created a monarch cats morning greet
+- 82ebdc0: Added Grumpy to monarch cats
 
 ## 2.0.0-beta.1
 
@@ -18,7 +24,6 @@
 ### Patch Changes
 
 - 685dec2: Night greet changed
-
 
 ## 1.2.1
 
