@@ -4,5 +4,7 @@
   "initialVersions": {
     "@philoin88/npm-greeting": "1.2.1"
   },
-  "changesets": []
+  "changesets": [
+    "curvy-mangos-listen"
+  ]
 }
