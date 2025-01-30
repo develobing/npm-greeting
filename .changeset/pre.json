@@ -1,10 +1,8 @@
 {
   "mode": "pre",
-  "tag": "alpha",
+  "tag": "beta",
   "initialVersions": {
     "@philoin88/npm-greeting": "1.2.1"
   },
-  "changesets": [
-    "curvy-mangos-listen"
-  ]
+  "changesets": ["curvy-mangos-listen"]
 }
