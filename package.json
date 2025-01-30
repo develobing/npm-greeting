@@ -1,6 +1,6 @@
 {
   "name": "@philoin88/npm-greeting",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0",
   "description": "NPM Package 배포 연습 프로젝트",
   "repository": {
     "type": "git",
