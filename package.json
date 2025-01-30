@@ -22,11 +22,13 @@
     "lib"
   ],
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "release-package": "npm run build && npx changeset publish"
   },
   "author": "philoin88",
   "license": "MIT",
   "devDependencies": {
+    "@changesets/cli": "^2.27.12",
     "rollup": "^4.17.2",
     "rollup-plugin-delete": "^2.0.0",
     "rollup-plugin-typescript2": "^0.36.0",
