@@ -1,5 +1,11 @@
 # @philoin88/npm-greeting
 
+## 1.2.2
+
+### Patch Changes
+
+- 685dec2: Night greet changed
+
 ## 1.2.1
 
 ### Patch Changes
