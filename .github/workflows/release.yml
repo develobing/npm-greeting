@@ -14,9 +14,9 @@ jobs:
     steps:
       - name: checkout repository code
         uses: actions/checkout@v2
-        with: ${{ secrets.GIT_CHANGESET_TOKEN }}
+        with:
           fetch-depth: 0
-          token:
+          token: ${{ secrets.GIT_CHANGESET_TOKEN }}
       - name: setup node.js
         uses: actions/setup-node@v2
         with:
