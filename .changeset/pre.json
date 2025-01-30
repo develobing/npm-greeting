@@ -1,0 +1,8 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@philoin88/npm-greeting": "1.2.1"
+  },
+  "changesets": []
+}
