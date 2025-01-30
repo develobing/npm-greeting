@@ -1,0 +1,11 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@philoin88/npm-greeting": "1.2.1"
+  },
+  "changesets": [
+    "curvy-mangos-listen",
+    "rich-ducks-compete"
+  ]
+}
